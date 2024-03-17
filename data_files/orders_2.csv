@@ -1,0 +1,3 @@
+Order_ID,Product_ID,Sales,Quantity,Discount,profit,customer_id,ship_mode,order_status,purchase_date,delivered_date
+CA-2014-145317,FUR-BO-10001798,261.96,2,0,41.9136,BH-11710,Standard Class,delivered,8/24/2018 16:01,8/29/2018 13:04
+CA-2016-118689,FUR-CH-10000454,731.94,3,0,219.582,CW-11905,Standard Class,delivered,11/24/2017 18:03,12/16/2017 19:59

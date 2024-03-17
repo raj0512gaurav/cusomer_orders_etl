@@ -1,0 +1,3 @@
+customer_id,customer_email,customer_name,segment,country,city,state,postal_code,region
+AA-10375,stern@verizon.net,Allen Arnold,Consumer,United States,Mesa,Arizona,85204,West
+SR-12990,sr@gmail.com,S R,Consumer,India,Pune,Maharashtra,827610,South
