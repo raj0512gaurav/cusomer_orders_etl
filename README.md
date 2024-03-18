@@ -2,7 +2,10 @@
 
 ### Project Highlights
 
-- **Multi-Schema Architecture**: Implemented a robust architecture utilizing three distinct schemas within **Snowflake** - **landing_zone** for raw data ingestion, **curated_zone** for data cleaning and transformation, and **consumption_zone** for business-level aggregations.
+- **Multi-Schema Architecture**: Implemented a robust architecture utilizing three distinct schemas within **Snowflake**
+  - **landing_zone** for raw data ingestion
+  - **curated_zone** for data cleaning and transformation
+  - **consumption_zone** for business-level aggregations.
 - **AWS S3 Integration**: Integrated AWS S3 for continuous data loading, ensuring seamless ingestion of batch data and enabling real-time analytics.
 - **Comprehensive Data Processing**: Developed comprehensive ETL workflows covering customer, orders, and products data, ensuring the integrity and accuracy of the entire data pipeline.
 - **Change Data Capture**: Implemented Change Data Capture (CDC) mechanisms, including pipes, streams, and tasks, for handling Slowly Changing Dimension (SCD) Type 2 data, allowing for historical tracking and analysis of changes over time.
